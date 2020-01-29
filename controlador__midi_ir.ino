@@ -5,7 +5,7 @@ Roberto Gomes  19/01/2020
 #include <MIDI.h> //https://github.com/FortySevenEffects/arduino_midi_library
 #include <IRremote.h> //https://github.com/z3t0/Arduino-IRremote
 
-//FFA857 botão avança      *Nota: Esse é código do botão. 
+//FFA857 botão avança      *Nota: Esse é o código do botão. 
 //FFE01F botão retroceder
 
 MIDI_CREATE_DEFAULT_INSTANCE();
